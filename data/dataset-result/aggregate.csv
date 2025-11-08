@@ -1,0 +1,4 @@
+T,SFL,PFE,XOM,MO,VZ,IBM,TSLA,GILD,GE,energy,num_occurrences,constraints,feasible
+0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,-0.001258040134328231,108,[ True  True],True
+0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-0.0011693903365152462,2,[ True False],False
+0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,-0.0017665541178559215,12,[False  True],False
